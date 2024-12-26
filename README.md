@@ -37,5 +37,4 @@ DAG Tasks:
 4. `make build`: build docker images for airflow.
 5. `make up`: run the pipeline.
 =======
-# Audiophile-End-to-End-Pipeline
->>>>>>> 471e593424f48b8f9da194c97322daa374e811f7
+
