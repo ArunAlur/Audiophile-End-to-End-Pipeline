@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Audiophile End-To-End ELT Pipeline
 
 Pipeline that extracts data from [Crinacle's](https://crinacle.com/) Headphone and InEarMonitor databases and finalizes data for a Metabase Dashboard.
@@ -35,3 +36,6 @@ DAG Tasks:
 3. `make base-build`: build base airflow image with project requirements.
 4. `make build`: build docker images for airflow.
 5. `make up`: run the pipeline.
+=======
+# Audiophile-End-to-End-Pipeline
+>>>>>>> 471e593424f48b8f9da194c97322daa374e811f7
